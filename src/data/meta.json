@@ -2,7 +2,7 @@
     "title": "Experimental Music",
     "description": "A webring of experimental music composers.",
     "image": "arctic-wave.jpg",
-    "url": "https://webringdemo.netlify.com",
+    "url": "https://experimental-music-webring.netlify.com",
     "repo": "https://github.com/stephiescastle/webring",
     "admins": [
         {
