@@ -10,8 +10,8 @@ Example:
 
 ```json
 {
-    "title": "Frank's awesome site",
-    "url": "https://www.franks-awesome-site.org",
+    "title": "Your site name",
+    "url": "https://www.your-site.org",
     "feed": null
 }
 ```

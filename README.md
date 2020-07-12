@@ -2,6 +2,14 @@
 
 https://experimental-music-webring.netlify.app/
 
+## Adding your site
+
+### Using GitHub
+To add yourself, open a pull request that adds your site info to `/src/data/members.json`
+
+### Without GitHub
+You can also request to join via the form on https://experimental-music-webring.netlify.app/ 
+
 ## Local Development
 
 To build the site locally, run these commands:
